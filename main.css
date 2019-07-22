@@ -1,0 +1,58 @@
+ body {
+
+     background-color: honeydew;
+ }
+
+ .main_text {
+     margin: 10vh auto;
+     text-align: center;
+     text-justify: center;
+     color: rgb(24, 24, 24);
+     font-style: italic;
+     font-size: 35px;
+ }
+
+ #result {
+
+     text-align: center;
+     font-size: 30px;
+     font-weight: bold;
+     color: rgb(151, 149, 149);
+
+ }
+
+
+ .game {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+ }
+
+ i {
+     color: rgb(151, 149, 149);
+ }
+
+ .user_score {
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 20px;
+     font-weight: bold;
+
+ }
+
+ .computer_score {
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 20px;
+     font-weight: bold;
+ }
+
+ .green_glow {
+     color: green;
+ }
+
+ .red_glow {
+     color: red;
+ }
+
+ .gray_glow {
+     color: grey;
+ }
